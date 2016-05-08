@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://jrutheiser.com/</loc>
+    <lastmod>2016-05-08T11:21:16-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jrutheiser.com/2016/05/08/hello/</loc>
+    <lastmod>2016-05-08T11:21:16-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jrutheiser.com/about/</loc>
+    <lastmod>2016-05-07T11:21:25-07:00</lastmod>
+  </url>
+  
+</urlset>

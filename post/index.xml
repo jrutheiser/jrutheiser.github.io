@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lithium Theme</title>
+    <link>http://jrutheiser.com/post/</link>
+    <description>Recent content in Posts on Lithium Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 May 2016 11:21:16 -0700</lastBuildDate>
+    <atom:link href="http://jrutheiser.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello</title>
+      <link>http://jrutheiser.com/2016/05/08/hello/</link>
+      <pubDate>Sun, 08 May 2016 11:21:16 -0700</pubDate>
+      
+      <guid>http://jrutheiser.com/2016/05/08/hello/</guid>
+      <description>&lt;p&gt;My name is Jonathan Rutheiser. I do front end development over at
+&lt;a href=&#34;http://kps3.com/&#34;&gt;kps3&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
